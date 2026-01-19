@@ -11,4 +11,4 @@ Overall, this lab session improved my understanding of computer hardware by allo
 Pictures during the PC Assembly :
 ![alt image](https://github.com/hfiona-06/PC-ASSEMBLY/blob/96170bc5977d2e776de1c116473dca6b191c38fb/pc_assembly_pic1.jpeg)
 
-![alt image](
+![alt image](https://github.com/hfiona-06/PC-ASSEMBLY/blob/bd80e7cebd468e18df6852423ade5cbab2eec091/pc_assembly_pic2.jpeg)
