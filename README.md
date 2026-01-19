@@ -7,3 +7,8 @@ I worked in a group of five members. The session began with the disassembly proc
 After completing the assembly, the computer was powered on to verify its functionality. The system booted successfully, indicating that all components had been installed correctly. At the conclusion of the laboratory session, a short quiz was conducted to assess our understanding of the PC assembly procedures.
 
 Overall, this lab session improved my understanding of computer hardware by allowing me to identify key internal components and learn how hardware upgrades or modifications, such as installing additional RAM or storage devices, can be carried out to meet specific user needs.
+
+Pictures during the PC Assembly :
+![alt image](https://github.com/hfiona-06/PC-ASSEMBLY/blob/96170bc5977d2e776de1c116473dca6b191c38fb/pc_assembly_pic1.jpeg)
+
+![alt image](
